@@ -1,0 +1,12 @@
+{
+  "name": "Buy Gold Today",
+  "symbol": "GOLD",
+  "description": "A wallet-native message delivered by SignalMint.",
+  "image": "https://ericm4492.github.io/signalmint-wallet-metadata/buy-gold-today.png",
+  "external_url": "https://ericm4492.github.io/signalmint-wallet-metadata/",
+  "attributes": [
+    { "trait_type": "Delivery", "value": "Wallet message" },
+    { "trait_type": "Network", "value": "Solana" },
+    { "trait_type": "Campaign", "value": "Buy Gold Today" }
+  ]
+}
